@@ -1,3 +1,9 @@
+/** EL2208 Praktikum Pemecahan Masalah dengan C 2023/2024
+ *   Modul               : 09
+ *   Nama (NIM)          : Muhammad Shafa Sauditya(13222013)
+ *   Nama File           : bfs.c
+ *   Deskripsi           : Program berisikan cara menyelesaikan TSP dengan algortima BFS.
+ */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
