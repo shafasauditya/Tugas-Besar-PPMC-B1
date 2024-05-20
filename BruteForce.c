@@ -1,3 +1,9 @@
+/** EL2208 Praktikum Pemecahan Masalah dengan C 2023/2024
+ *   Modul               : 09
+ *   Nama (NIM)          : Mohammad Gabriel Hammam (13222014)
+ *   Nama File           : BruteForce.c
+ *   Deskripsi           : Program berisikan cara menyelesaikan TSP dengan algortima Brute Force.
+ */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
