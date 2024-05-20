@@ -1,3 +1,13 @@
+/**EL2008 Praktikum Pemecahan Masalah dengan C 2023/2024
+ * Modul            : Tubes
+ *Hari dan Tanggal  : 20/5/2024
+ *Nama (NIM)        : Dennis Hubert(13222018)
+ *Asisten            : Nicholas M
+ * Nama File        : PSO_final.c
+ * Deskripsi        : menyelesaikan TSP dengan PSO
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
