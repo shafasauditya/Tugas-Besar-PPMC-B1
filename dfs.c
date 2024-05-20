@@ -1,3 +1,10 @@
+/** EL2208 Praktikum Pemecahan Masalah dengan C 2023/2024
+ *   Modul               : 09
+ *   Nama (NIM)          : Gemuruh Bagus Wirayudha (13222019)
+ *   Nama File           : DFS.c
+ *   Deskripsi           : Program berisikan cara menyelesaikan TSP dengan algortima DFS.
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
